@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">10 Film Hebat Jerman Abad Ke-21</string>
+
+    <string name="movies_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_page">About</string>
+    <string name="search">Pencarian</string>
+    <string name="email">gheriistidar@gmail.com</string>
+    <string name="name">Gheri Maulana T. I.</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="description_note">Deskripsi:</string>
+    <string name="share">Bagikan</string>
+    <string name="year_value">Nilai Tahun</string>
+    <string name="year">Tahun Rilis:</string>
+
+    <string-array name="data_name">
+        <item>Good Bye Lenin!</item>
+        <item>Head-on</item>
+        <item>The Edukators</item>
+        <item>Requiem</item>
+        <item>The Lives of Others</item>
+        <item>Pina</item>
+        <item>Stopped on Track</item>
+        <item>A Coffee in Berlin</item>
+        <item>Barbara</item>
+        <item>Victoria</item>
+    </string-array>
+
+
+    <integer-array name="data_year">
+        <item>2003</item>
+        <item>2004</item>
+        <item>2004</item>
+        <item>2006</item>
+        <item>2006</item>
+        <item>2011</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2012</item>
+        <item>2015</item>
+    </integer-array>
+
+    <string-array name="data_description">
+        <item>Tragikomedi karya sutradara  Wolfgang Becker  ini menjadi sukses besar pada awal abad ini, baik di Jerman maupun di negara-negara berbahasa Inggris. Ini adalah kisah inspiratif tentang seorang pemuda (diperankan oleh  Daniel Brühl  dalam peran terobosannya) yang tinggal di Berlin Timur yang ibunya yang sosialis menderita serangan jantung dan mengalami koma. Saat dia dalam keadaan tidak sadarkan diri, peristiwa-peristiwa politik semakin cepat terjadi: Tembok Berlin dirobohkan, pemerintahan Jerman Timur dibongkar, dan kapitalisme menyerang dari barat. Disuruh menghindari stres pada ibunya saat dia bangun, Alex memutuskan untuk menyembunyikan berita besar tersebut. Dia dan saudara perempuannya berpura-pura tidak terjadi apa-apa, memulai upaya aneh untuk menjaga GDR tetap hidup di dalam empat dinding apartemen mereka – termasuk berita TV dan makanan.</item>
+        <item>Film terobosan  Fatih Akin , Head-on,  adalah film Jerman pertama dalam 18 tahun yang memenangkan Beruang Emas di Festival Film Internasional Berlin, dan kesuksesannya merupakan batu loncatan penting dalam kebangkitan sinema auteur Jerman. Lahir di Jerman dari orang tua Turki, Akin sering berfokus pada topik seputar identitas etnis dan menjadi juru bicara imigran generasi kedua di Jerman.</item>
+        <item>Ini adalah film provokatif tentang konflik generasi, dengan fokus pada generasi muda yang berjuang melawan kapitalisme dengan cara yang sangat khas. Jan, Peter dan Jule masuk ke rumah-rumah orang kaya sementara pemiliknya pergi, dengan hati-hati menata ulang harta benda mereka dan meninggalkan catatan bahwa hari-hari kelimpahan mereka sudah tinggal menghitung hari. Ketika mereka tertangkap basah, mereka tidak punya pilihan selain menculik pemilik rumah. Perlahan-lahan keruntuhan pandangan dunia idealis mereka dimulai. Memotret dengan kamera genggam,  Hans Weingartner , yang juga mantan aktivis, mengajukan pertanyaan tentang bagaimana rasa takut dapat membatasi kebebasan.</item>
+        <item>Film seperti Crazy (2000), sebuah film dewasa tentang persahabatan dan jatuh cinta, dan Distant Lights (2003), tentang kehidupan di perbatasan antara Jerman dan Polandia, telah menjadikan  Hans-Christian Schmid  sebagai salah satu film terhebat. Pendongeng Jerman akhir-akhir ini. Dia mempunyai bakat unik dalam menggabungkan simbolik dengan kenyataan. Dalam  Requiem , ia berfokus pada konsekuensi fanatisme agama dan pengusiran setan.</item>
+        <item>Memenangkan Oscar untuk film asing terbaik dengan fitur debut cukup mencengangkan, begitu pula dengan film thriller mata-mata berlatar GDR karya Florian Henckel von Donnersmarck , yang berkisah tentang pasangan terkenal dari dunia teater. Dalam filmnya tentang moralitas, cinta, dan kepercayaan pada masa pengawasan, von Donnersmarck membawa penonton semakin jauh ke dalam spiral konflik etika yang sulit, bahkan mustahil, untuk dihindari. Dengan mengikuti komisaris Stasi Wiesler, yang membenamkan dirinya ke dalam “kehidupan orang lain”, kita menyaksikan transisi bertahap dari pengikut setia rezim menjadi manusia – sebuah transisi yang menantang pemahaman umum kita tentang yang baik dan yang jahat.</item>
+        <item>Film ini merupakan penghormatan kepada mendiang  Pina Bausch , koreografer besar Jerman yang mengubah sifat pertunjukan langsung dengan perpaduan tari dan teater. Ketika dia meninggal secara tak terduga tepat sebelum pembuatan film dimulai,  Wim Wenders  diyakinkan oleh ansambelnya akan kebutuhan yang lebih besar untuk melanjutkan proyek tersebut. Dalam film dokumenter tersebut, ia menggabungkan penampilan dan wawancara di dalam dan di luar panggung, mengantarkan penonton pada perjalanan visual yang menakjubkan. Meskipun kisah di balik koreografinya mungkin tidak selalu jelas, emosi yang ada di baliknya begitu familiar sehingga kita semua bisa merasakannya. Awalnya dibuat dalam 3D, film Wenders berhasil menciptakan keintiman yang menarik Anda ke dalam perpaduan magis antara tarian, musik, dan film.</item>
+        <item>Andreas Dresen  adalah sutradara yang suka mengangkat topik-topik yang dianggap tabu oleh pembuat film lain. Dia melakukannya dalam filmnya yang luar biasa Cloud 9 (2008), sebuah film yang cukup eksplisit dan mengharukan tentang seks senior, dan kembali melakukannya lagi dengan Stopped on Track, sebuah film tentang kematian.</item>
+        <item>Difilmkan dalam warna hitam dan putih,  film debut Jan-Ole Gerster , A Coffee in Berlin, membahas tentang keinginan untuk berpartisipasi dalam kehidupan dan kesulitan menemukan tempat. Inti permasalahannya adalah Niko yang berusia akhir dua puluhan, yang keluar dari sekolah hukum dua tahun sebelumnya dan menjalani kehidupan sehari-harinya. Ketika ayahnya memotong uang sakunya, dia tiba-tiba tidak mampu lagi membeli secangkir kopi yang layak. Dalam adegan episodik, film ini mengikuti siang dan malam pengembaraan Niko tanpa tujuan di Berlin, saat ia mengalami serangkaian pertemuan kebetulan yang memiliki dampak jangka panjang pada masa depannya.</item>
+        <item>Christian Petzold , salah satu sutradara paling terkenal di Jerman, adalah ahli dalam mendramatisasi dilema manusia dan pengkhianatan emosional. Pada musim panas 1980, Barbara ( Nina Hoss , yang membintangi sebagian besar filmnya), seorang dokter, menyesuaikan diri dengan kehidupan barunya di provinsi Jerman Timur, tempat dia dikirim sebagai hukuman. Sejalan dengan ketertarikan Petzold yang tulus terhadap masyarakat pinggiran dan ketidakpastian karakternya, penonton tidak mengetahui apa kejahatan yang mungkin terjadi pada sebagian besar film tersebut. Sebaliknya, kita menyaksikan bagaimana Barbara menjauhkan diri dari segala jenis interaksi sosial yang melampaui interaksi profesional. Namun, bos barunya, André ( Ronald Zehrfeld ), membuatnya penasaran. Tapi apakah dia mengacaukan intimidasi dengan kasih sayang?</item>
+        <item>Sebastian Schipper , aktor yang menjadi sutradara, melakukan kudeta dengan film thriller yang berani dan sangat menarik ini: dia merekam seluruh film dalam satu pengambilan gambar tanpa gangguan. Kamera tunggal mengikuti Victoria ( Laia Costa ), seorang pianis klasik Spanyol, yang tertarik untuk mengetahui apa lagi yang ditawarkan Berlin, ketika dia bertemu Sonne dan teman-temannya di luar klub pada dini hari. Apa yang dimulai sebagai petualangan genit di tengah malam segera menjadi tidak terkendali, dan Schipper membawa pemirsa dalam perjalanan yang menggetarkan melalui kota yang tidak pernah tidur.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/good_bye_lenin_2003</item>
+        <item>@drawable/head_on_2004</item>
+        <item>@drawable/the_edukators_2004</item>
+        <item>@drawable/requiem_2006</item>
+        <item>@drawable/the_lives_of_others_2006</item>
+        <item>@drawable/pina_2011</item>
+        <item>@drawable/stopped_on_track_2011</item>
+        <item>@drawable/a_coffee_in_berlin_2012</item>
+        <item>@drawable/barbara_2012</item>
+        <item>@drawable/victoria_2015</item>
+    </integer-array>
+</resources>
